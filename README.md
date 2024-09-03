@@ -6,3 +6,4 @@
 # KA SKJER DA
 # git version 2.39.3 (Apple Git-146) 
 # lolo hindi
+# Lolo HINDI
